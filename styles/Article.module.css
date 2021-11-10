@@ -1,0 +1,12 @@
+.title{
+    color: darkblue;
+  }
+
+.card{
+    border: black 2px solid;
+    margin-bottom: 10px;
+}
+
+.card:hover{
+    cursor:pointer;
+}
